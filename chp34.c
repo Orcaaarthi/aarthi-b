@@ -1,4 +1,4 @@
-/*chapter 3-Program 4*/
+/*chapter 3 Program 4*/
 
 /*Program to display the variables*/
 
